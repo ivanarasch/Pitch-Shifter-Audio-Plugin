@@ -81,12 +81,6 @@ A preset that sets **Voice 1 = +4**, **Voice 2 = +7**, **Voice 3 = +10** semiton
 
 ---
 
-## License
-Add your license here (MIT, GPL, proprietary, etc.).
-
----
-
 ## Credits
-Created by: **[Your Name]**  
-Course / Context: **[Class / Institution]** (optional)
-
+Created by: Ivana Rasch Chinchilla 
+Course / Context: Digital Signal Processing Course
